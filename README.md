@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Bandhavya P
+<h1 align="center">Hi there 👋 I'm Bandhavya P</h1>
 
 ## 💫 About Me:
 I'm a data analytics enthusiast who enjoys investigating and evaluating data to find trends and insights. I like using analytical methods to support evidence-based decision making while working with datasets.I have gained expertise in data analysis, statistical techniques, data visualization, and analytical tools like R, Python, Excel, SQL, and Power BI through coursework and numerous projects.
