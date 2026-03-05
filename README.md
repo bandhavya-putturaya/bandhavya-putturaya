@@ -1,4 +1,4 @@
-## Hi there 👋 This is Bandhavya P
+## Hi there 👋 I am Bandhavya P
 
 <!--
 **bandhavya-putturaya/bandhavya-putturaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
