@@ -1,23 +1,13 @@
 ## Hi there 👋 I am Bandhavya P
 
-<!--
-**bandhavya-putturaya/bandhavya-putturaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 💫 About Me:
 I'm a data analytics enthusiast who enjoys investigating and evaluating data to find trends and insights. I like using analytical methods to support evidence-based decision making while working with datasets.I have gained expertise in data analysis, statistical techniques, data visualization, and analytical tools like R, Python, Excel, SQL, and Power BI through coursework and numerous projects.
 
  I am eager to keep developing in the field of data analytics, using my analytical skills to solve practical issues and support data-driven solutions.
+
+- 📄 Checkout my Resume :
+- 
+
 
 
 ## 🌐 Socials:
