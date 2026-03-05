@@ -6,7 +6,7 @@ I'm a data analytics enthusiast who enjoys investigating and evaluating data to 
  I am eager to keep developing in the field of data analytics, using my analytical skills to solve practical issues and support data-driven solutions.
 
 - 📄 Checkout my Resume Here:
-- - 📫 Reach out to me at: bandhavya011@gmail.com
+- 📫 Reach out to me at: bandhavya011@gmail.com
 
 
 
