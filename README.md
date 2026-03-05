@@ -6,7 +6,7 @@ I'm a data analytics enthusiast who enjoys investigating and evaluating data to 
  I am eager to keep developing in the field of data analytics, using my analytical skills to solve practical issues and support data-driven solutions.
 
 - 📄 Checkout my Resume Here: 
-[![Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-blue?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/bandhavya-putturaya/bandhavya-putturaya/raw/main/Ms.Bandhavya%20P.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-blue?style=plastic&logo=readme&logoColor=white)](https://github.com/bandhavya-putturaya/bandhavya-putturaya/raw/main/Ms.Bandhavya%20P.pdf)
 - 📫 Reach out to me at: bandhavya011@gmail.com
 
 
