@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-I'm a data analytics enthusiast who enjoys investigating and evaluating data to find trends and insights. I like using analytical methods to support evidence-based decision making while working with datasets.
+## 💫 About Me:
+I'm a data analytics enthusiast who enjoys investigating and evaluating data to find trends and insights. I like using analytical methods to support evidence-based decision making while working with datasets.I have gained expertise in data analysis, statistical techniques, data visualization, and analytical tools like R, Python, Excel, SQL, and Power BI through coursework and numerous projects.
+
+ I am eager to keep developing in the field of data analytics, using my analytical skills to solve practical issues and support data-driven solutions.
 
 
 ## 🌐 Socials:
